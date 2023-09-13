@@ -1,0 +1,19 @@
+.button {
+  background: none;
+  border: none;
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #0f172a;
+  font-weight: bold;
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  box-sizing: border-box;
+}
+
+.selected {
+  border: 1px solid #0284c7;
+  color: #0284c7;
+  border-radius: 15px;
+}
